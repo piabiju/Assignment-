@@ -1,1 +1,10 @@
-# Assignment-
+
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+print("Addition:", num1 + num2)
+print("Subtraction:", num1 - num2)
+print("Multiplication:", num1 * num2)
+print("division:",num1/num2)
+str1 = input("Enter first value for concatenation: ")
+str2 = input("Enter second value for concatenation: ")
+print("String Concatenation:", str1 + str2)
